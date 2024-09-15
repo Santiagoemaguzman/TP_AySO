@@ -1,0 +1,161 @@
+git push
+exit
+ls
+whoami
+pwd
+man man
+ls -l
+ls -la
+echo "hola"
+echo $HOME
+ls
+cd repogit
+ls
+ls -la
+cd ..
+ls
+cat README
+git clone https://github.com/Santiagoemaguzman/Guzman_vagrant.git
+ls
+cd Guzman_vagrant/
+ls
+history
+history > historial.txt
+ls
+cat historial.txt 
+git status
+git add .
+git status
+git commit -m "Mi primer coomit de arquitectura"
+git config --global user.name "Santiagoemaguzman"
+git commit -m "Mi primer coomit de arquitectura"
+git push
+ls
+whoami
+pws
+pwd
+echo 
+hecho "hola"
+echo "hola"
+ls
+cd repogit
+ls
+cd Guzman_vagrant
+ls
+git clone [200~https://github.com/Santiagoemaguzman/Guzman_vagrant.git~
+ls
+cd..
+cd ..
+ls
+cd Guzman_vagrant/
+history
+history > historial.txt
+ls
+cat historial.txt 
+git status
+git add .
+git status
+git commit -m "mi segundo commit de vagrant"
+git push
+exit
+ls -la
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+ls
+cd ..
+ls
+cd repogit
+ls
+git clone git@github.com:Santiagoemaguzman/Guzman_vagrant.git
+ls
+cd Guzman_vagrant/
+ls
+cd ..
+cat /proc/cpuinfo
+grep proce
+cat /proc/cpuinfo | grep -i MODEL
+cat /proc/cpuinfo | grep -i MODEL | grep name
+cat /proc/cpuinfo | grep -in MODEL | grep name
+history
+ls
+cat /etc/passwd
+cat /etc/passwd | sort
+cat /etc/shadow
+sudo
+cat /etc/shadow
+sudo cat /etc/shadow
+cat /etc/shadow
+exit
+ls
+cd repogit/
+ls
+cat TP_AySO/
+las
+ls
+cat TP_AySO/
+cd TP_AySO/
+ls
+cat lista_ordenada.txt 
+sort lista_ordenada -t":" -k7
+ls
+sort lista_ordenada -t":" -k7
+sort lista_ordenada.txt -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+git status
+git add .
+git status
+git commit -m “ADD: Listado de usuarios ordenada”
+-m “ADD: Listado de usuarios ordenada”
+git commit -m “ADD: Listado de usuarios ordenada”
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+man "dump traffic"
+man dump traffic
+man dump
+man man
+apropos "dump traffic" tcpdump
+apropos tcpdump > comando_dump_net.txt
+apropos "tcpdump" > comando_dump_net.txt
+man tcpdump
+ehco apropos "tcpdump" >> comando_dump_net.txt
+apropos tcpdump > comando_dump_net.txt
+tcpdump --version
+which tcpdump
+sudo mandb
+apropos tcpdump > comando_dump_net.txt
+ehco apropos "tcpdump" >> comando_dump_net.txt
+echo apropos "tcpdump" >> comando_dump_net.txt
+git status
+git add .
+git status
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git status
+ls
+cat README.md 
+cd ..
+ls
+cd T
+cd TP_AySO/
+ls
+cd README.MD
+cat <<FIN>> README.md 
+Alumno : Santiago
+Nombre completo: Santiago Emanuel Guzman
+Turno: Mañana, div 113
+FIN
+
+git status
+git add .
+git commit -m "nuevo read me"
+history
+history -a
+history
+history  
+man history
+history -a$HOME/.bash_history
+history -a $HOME/.bash_history
+ls -la $HOME
+history -a $HOME/.bash_history
